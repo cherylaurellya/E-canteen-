@@ -1,4 +1,4 @@
-# live_notes
+# E-CANTEEN
 
 A new Flutter project.
 
