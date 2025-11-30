@@ -1,16 +1,11 @@
 # E-CANTEEN
 
-A new Flutter project.
+![](./Dokumentasi/e%20canteen%201.jpeg)
 
-## Getting Started
+![](./Dokumentasi/e%20canteen%202.jpeg)
 
-This project is a starting point for a Flutter application.
+![](./Dokumentasi/e%20canteen%203.jpeg)
 
-A few resources to get you started if this is your first Flutter project:
+![](./Dokumentasi/e%20canteen%204.jpeg)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![](./Dokumentasi/e%20canteen%205.jpeg)
